@@ -1,11 +1,9 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAgRa_iRPdnkGjXmRUIXCNZc7lKnLrWYh7ww&usqp=CAU)
+![MasterHead](https://media.licdn.com/dms/image/C5616AQGIpXfiK7J9zw/profile-displaybackgroundimage-shrink_350_1400/0/1639805805918?e=1697068800&v=beta&t=WHWRZjkA8uGD_82d31O6c79fowURsIIK__-UYiXC714)
 <h1 align="center">Hi 👋, I'm Mohidul Islam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohidulcreative&label=Profile%20views&color=0e75b6&style=flat" alt="mohidulcreative" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohidulcreative" alt="mohidulcreative" /></a> </p>
 
 - 🔭 I’m currently looking for **Job**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **techexplorer420@gmail.com**
 
-- 📄 Know about my experiences [https://mohidulportfolio.netlify.app/](https://mohidulportfolio.netlify.app/)
+- 📄 Know my experiences [https://mohidulportfolio.netlify.app/](https://mohidulportfolio.netlify.app/)
 
 - ⚡ Fun fact **Don't sleep until solve problems**
 
