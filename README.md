@@ -1,4 +1,4 @@
-![MasterHead](https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/)
+![MasterHead](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Mohidul Islam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif" >
