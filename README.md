@@ -1,4 +1,4 @@
-![MasterHead](banner.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHKrtT5Na8Ffg/profile-displaybackgroundimage-shrink_350_1400/0/1693658910408?e=1726704000&v=beta&t=syesHCITLA0Pq9y2uuPPecfm5C3ZfssMPVlpFPr6dIk)
 <h1 align="center">Hi 👋, I'm Mohidul Islam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://thumbs.gfycat.com/CompleteSimplisticGrizzlybear-max-1mb.gif" >
